@@ -200,3 +200,11 @@
   \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
 
 % -----------------------------------------------------------------------------
+
+
+% Packages added by me
+\RequirePackage{todonotes}
+
+
+% ---- Commands added by me -----------------------------
+\newcommand{\braket}[1]{\left\langle #1 \right\rangle}
